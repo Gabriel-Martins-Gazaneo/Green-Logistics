@@ -33,4 +33,7 @@ A **process** is what yields results. A **procedure** is how it's done. A **flow
 
 ![Placeholder for Circular Production Image](link_to_circular_production_image.jpg)
 
-For more information on Green Logistics, you can visit [this link](link_to_green_logistics_website).
+# Information and Insights from Professor Guaraci Ima de Moraes's Classes
+
+Learn from the wisdom of [Professor Guaraci Ima de Moraes](https://www.linkedin.com/in/professorguaracimorais/?originalSubdomain=br) in his classes.
+
