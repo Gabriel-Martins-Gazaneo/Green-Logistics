@@ -33,8 +33,8 @@ A **process** is what yields results. A **procedure** is how it's done. A **flow
 
 ![Placeholder for Circular Production Image](link_to_circular_production_image.jpg)
 
-# Information and Insights from Professor Guaraci Ima de Moraes's Classes
+# Information and Insights from Professor Guaraci Lima de Moraes's Classes
 
-Learn from the wisdom of [Professor Guaraci Ima de Moraes](https://www.linkedin.com/in/professorguaracimorais/?originalSubdomain=br) in his classes.
+Learn from the wisdom of [Professor Guaraci Lima de Moraes](https://www.linkedin.com/in/professorguaracimorais/?originalSubdomain=br) in his classes.
 
 
