@@ -37,3 +37,4 @@ A **process** is what yields results. A **procedure** is how it's done. A **flow
 
 Learn from the wisdom of [Professor Guaraci Ima de Moraes](https://www.linkedin.com/in/professorguaracimorais/?originalSubdomain=br) in his classes.
 
+
